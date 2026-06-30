@@ -142,4 +142,4 @@ jupyter notebook
 
 B.Tech Graduate | Data Analytics | Machine Learning | SQL | Python | Power BI
 
-📧 Feel free to connect with me on LinkedIn for collaboration and discussions.
+
